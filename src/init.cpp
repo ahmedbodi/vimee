@@ -530,7 +530,7 @@ std::string HelpMessage(HelpMessageMode mode)
 std::string LicenseInfo()
 {
     const std::string URL_SOURCE_CODE = "<https://github.com/vimee-project/vimee>";
-    const std::string URL_WEBSITE = "<https://vimee.org>";
+    const std::string URL_WEBSITE = "<https://vimee.io>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

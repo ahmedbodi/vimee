@@ -3,7 +3,7 @@ Vimee Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/vimee-project/vimee.svg?branch=master)](https://travis-ci.org/vimee-project/vimee)
 
-https://vimee.org
+https://vimee.io
 
 What is Vimee?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Vimee Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Vimee Core software, see [https://vimee.org](https://vimee.org).
+the Vimee Core software, see [https://vimee.io](https://vimee.io).
 
 License
 -------
