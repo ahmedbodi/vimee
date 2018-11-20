@@ -2,9 +2,7 @@ Vimee Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.com/Silverwizard80/vimee.svg?token=hZZLh5pswPrbWxky2XVi&branch=master)](https://travis-ci.com/Silverwizard80/vimee)
-
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/vimeeio)
-
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 https://vimee.io
