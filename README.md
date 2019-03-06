@@ -1,7 +1,6 @@
 Vimee Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.com/Silverwizard80/vimee.svg?token=hZZLh5pswPrbWxky2XVi&branch=master)](https://travis-ci.com/Silverwizard80/vimee)
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/vimeeio)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
@@ -34,11 +33,8 @@ regularly to indicate new official, stable release versions of Vimee Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/vimee-dev)
-should be used to discuss complicated or controversial changes before working
+The Vimee Slack Group should be used to discuss complicated or controversial changes before working
 on a patch set.
-
-Developer IRC can be found on Freenode at #vimee-dev.
 
 Testing
 -------
@@ -68,14 +64,3 @@ code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
 
-Translations
-------------
-
-We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Vimee periodically.
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
